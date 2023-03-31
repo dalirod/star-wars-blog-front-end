@@ -1,0 +1,17 @@
+.card-star{
+border: 1px solid red;
+min-width: 300px;
+}
+
+.home-card-list{
+border: 1px solid black;  
+display: flex;  
+overflow-x: scroll !important ;
+}
+
+.card-uno{
+border: 1px solid black;
+width: 600px;
+height: 800px; 
+margin-left: 40px;   
+}
